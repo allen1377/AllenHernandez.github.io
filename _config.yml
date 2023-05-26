@@ -125,12 +125,12 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+navbar-col: "#112D32"
+navbar-text-col: "#ffffff"
 navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
+page-col: "#88BDBC"
+text-col: "#ffffff"
+link-col: "#000000"
 hover-col: "#0085A1"
 footer-col: "#EAEAEA"
 footer-text-col: "#777777"
@@ -284,6 +284,7 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - todo.txt
 
 plugins:
   - jekyll-paginate
