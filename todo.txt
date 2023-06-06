@@ -1,0 +1,14 @@
+To do List
+    write subgoals for follwing points
+    Style the website for personal taste
+        color
+            12, 15, 18, 19, 22
+    create post that show projects
+        senior design
+        byson and yarn
+        epics
+        SHPE
+    create pages / rewite pages 
+        about me
+        links
+        home
