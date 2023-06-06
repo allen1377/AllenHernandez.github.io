@@ -21,10 +21,10 @@ author: Allen Hernandez
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  #Resources:
+  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
+  #Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -130,7 +130,7 @@ navbar-text-col: "#ffffff"
 navbar-border-col: "#DDDDDD"
 page-col: "#88bdbc"
 text-col: "#ffffff"
-link-col: "#000000"
+link-col: "#ffffff"
 hover-col: "#0085A1"
 footer-col: "#EAEAEA"
 footer-text-col: "#777777"
