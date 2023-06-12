@@ -21,6 +21,8 @@ author: Allen Hernandez
 
 navbar-links:
   About Me: "aboutme"
+  Resourses:
+    - Resume: "/assets/"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
