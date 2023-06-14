@@ -833,7 +833,7 @@ table {
 }
 table tr {
   border-top: 1px solid #cccccc;
-  background-color: #ffffff;
+  background-color: #88bdbc;
   margin: 0;
   padding: 0;
 }
@@ -842,7 +842,7 @@ table tr:nth-child(2n) {
 }
 table tr th {
   font-weight: bold;
-  border: 1px solid #cccccc;
+  border: 1px solid #ffffff;
   text-align: left;
   margin: 0;
   padding: 0.375rem 0.8125rem;
