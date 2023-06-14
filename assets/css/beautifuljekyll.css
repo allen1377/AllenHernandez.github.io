@@ -862,6 +862,11 @@ table tr td :last-child {
   margin-bottom: 0;
 }
 
+.contact-table .table-cell{
+  background-color: #88bdbc;
+  outline: white;
+}
+
 /* --- Code blocks --- */
 
 code {
