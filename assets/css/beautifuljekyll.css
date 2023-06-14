@@ -844,6 +844,10 @@ tr {
   border-color: #fff;
 }
 
+tbody {
+  border-color: #fff;
+}
+
 table tr {
   border-top: 1px solid #cccccc;
   background-color: #88bdbc;
