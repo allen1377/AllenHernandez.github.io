@@ -833,6 +833,12 @@ table {
   background-color: #88bdbc;
   border-color: #ffffff;
 }
+
+td {
+  background-color: #88bdbc;
+  border-color: #ffffff;
+}
+
 table tr {
   border-top: 1px solid #cccccc;
   background-color: #88bdbc;
