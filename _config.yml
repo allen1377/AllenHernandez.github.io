@@ -21,7 +21,7 @@ author: Allen Hernandez
 
 navbar-links:
   About Me: "aboutme"
-  Resourses:
+  Resources:
     - Resume: "/assets/documents/Allen_Hernandez_Resume.pdf"
     - Contanct Me: "contactMe"
   #Resources:
