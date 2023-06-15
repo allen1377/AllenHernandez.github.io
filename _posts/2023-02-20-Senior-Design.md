@@ -12,6 +12,6 @@ During the last semester of my senior year, my senior design project was to dene
 
 I particularly worked on the creation of the documents. The degree plan class took arrayList as parameters. The creation of the header and footer was filled from the information taken from the graduate students transcript. The middle rows over the information and categories are dynamically based on the courses taken from the transcript or input from the user. The audit report would get the courses and process the grades in order to calculate the core, elective, and overall gpa. Both of these produce a word document.  
 
-<img src = "/assets/img/auditReport.png" alt = "Example of GUI P1" style="width: 20vw; hegiht: 65vh"/>
-<img src = "/assets/img/degreePlan.png" alt = "Example of GUI P2" style="width: 20vw; hegiht: 75vh"/>
+<img src = "/assets/img/auditReport.png" alt = "Example of GUI P1" style="width: 20vw; height: 30vh"/>
+<img src = "/assets/img/degreePlan.png" alt = "Example of GUI P2" style="width: 20vw; height: 29.5vh"/>
 
