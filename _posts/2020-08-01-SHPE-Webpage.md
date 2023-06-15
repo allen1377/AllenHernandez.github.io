@@ -10,3 +10,4 @@ During the four years of attending The University of Texas at Dallas I have been
 More particularly, being a part of SHPE had allowed me to be able to learn about front-end software development. I was able to work on the chapters website. During the time spent on the technology team, I spent learning the basics of web design in html, css, and javascript. 
 
 [Page is down currently](https://www.shpeUTD.org)
+
