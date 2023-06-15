@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: My Background
+cover-img: /assets/img/downtown.jpg
 ---
 
 My name is **Allen David Hernandez**. A graduate of the University of Texas at Dallas. I am a first-generation Mexican-American who aims to be a full-stack developer. The reason why I have chosen to study for years in the field of computer science and join professional organizations, and hackathons is quite simple.  
